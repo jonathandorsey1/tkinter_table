@@ -1,5 +1,3 @@
-#!/usr/bin/env /p/cmo/tools/pkgs/anaconda/bin/python3
-
 # Author: Jonathan Dorsey
 # Last updated: 6/10/2019
 
